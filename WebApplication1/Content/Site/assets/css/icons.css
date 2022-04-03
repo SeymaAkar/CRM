@@ -2405,9 +2405,8 @@ File: app.css
 }
 
 .bx-door-open:before {
-
 	content: "\ea12";
-
+	color: red;
 }
 
 .bx-dots-horizontal:before {
